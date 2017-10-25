@@ -31,7 +31,7 @@ Use the NSIS Script Compiler to build setup executable by dragging the "setupssh
 
 # Disclaimer
 
-All the resources provided in this repository are forked from [mls-software.com/opensshd.html](https://www.mls-software.com/opensshd.html), where they are actively updated and maintained (Intent is to reflect the same within this repository).
+All the resources provided in this repository are forked from [mls-software.com/opensshd.html](https://www.mls-software.com/opensshd.html), where they are actively updated and maintained by the original author (Intent is to reflect the same within this repository).
 
 
 # Licensing
