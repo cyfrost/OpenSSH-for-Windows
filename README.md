@@ -2,7 +2,7 @@
 
 [OpenSSH for Windows](https://www.mls-software.com/opensshd.html) is an [OpenSSH](https://openssh.com) installer package for Windows.
 
-Originally Written by Michael Johnson, Updated and modified by Mark Saeger.
+Originally written by Michael Johnson, updated and modified by [Mark Saeger](https://www.mls-software.com/opensshd.html).
 
 ## Download
 
